@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Memento", "Memento\Memento.csproj", "{B7EBDFCF-871B-407F-9632-B68838FAFFC7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TemplateMethod", "TemplateMethod\TemplateMethod.csproj", "{81B23357-B2CA-451C-BFF4-034BFE9B3EA0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,5 +19,9 @@ Global
 		{B7EBDFCF-871B-407F-9632-B68838FAFFC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B7EBDFCF-871B-407F-9632-B68838FAFFC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B7EBDFCF-871B-407F-9632-B68838FAFFC7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81B23357-B2CA-451C-BFF4-034BFE9B3EA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81B23357-B2CA-451C-BFF4-034BFE9B3EA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81B23357-B2CA-451C-BFF4-034BFE9B3EA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81B23357-B2CA-451C-BFF4-034BFE9B3EA0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
